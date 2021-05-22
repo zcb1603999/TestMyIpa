@@ -24,7 +24,7 @@ title: "测试项目"
 
 ## 安装方式
 
-* 在手机 Safari 浏览器上，[点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zcb1603999/MyIpa/master/resource/test.ipa)
+* 在手机 Safari 浏览器上，[点击安装](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zcb1603999/MyIpa/master/resource/manifest.plist)
 
 
 * iOS11 及以上，打开「相机」应用，扫描以下二维码安装☟
