@@ -1,18 +1,18 @@
 title: TestMyipa
-description: 一个基于 GitHub 的测试下载平台
+description: 测试平台
 show_downloads: false
 
-baseurl: "/TestMyipa" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://1ili.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/TestMyIpa" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://zcb1603999.github.io" # change this to the base hostname & protocol for your site
 
 cayman-blog:
   date_format: "%b %-d, %Y"
 
 theme: # leave it empty
 
-qq_number: 894857383
-github_username: 1ilI
-email: zhangyue_developer@icloud.com
+qq_number: 0000000
+github_username: apple
+email: apple@icloud.com
 
 gitalk:
     owner: 1ilI
